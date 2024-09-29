@@ -19,7 +19,7 @@ import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
  * This class is responsible for configuring the security settings of the application.
  * It includes setting up CORS, authentication providers, and authorization rules.
  *
- * @author YourName
+ * @author Rabiul islam
  */
 @Configuration
 @EnableWebSecurity
